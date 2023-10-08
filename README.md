@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manishchhawri
 - 👀 I’m interested in startups and make some difference in your company
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me chhawrimanish@gmail.com
 
